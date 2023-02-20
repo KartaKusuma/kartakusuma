@@ -6,7 +6,7 @@ An independent Software Engineer who loves to create and share projects about we
 - 🔭 I’m currently studying at Politeknik Negeri Semarang
 - 🌱 I’m currently learning about Back-End Development with Go
 - 💬 Ask me about Back-End Development or AI
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I often code before breakfast
 
 
 ### Tech Stack
