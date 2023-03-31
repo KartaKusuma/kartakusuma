@@ -13,7 +13,6 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://avatars.githubusercontent.com/u/25158?v=4" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://avatars.githubusercontent.com/u/958072?v=4" /></a>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
   <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://avatars.githubusercontent.com/u/1525981?v=4" /></a>
   <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="21px" src="https://avatars.githubusercontent.com/u/4314092?v=4" /></a>
