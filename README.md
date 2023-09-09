@@ -3,9 +3,9 @@
 
 An independent Software Engineer who loves to create and share projects about web and AI! I've enjoyed PHP, JavaScript, Python and Go, and make them the main language in creating a project.
 
-- 🔭 I’m currently studying at Politeknik Negeri Semarang
-- 🌱 I’m currently learning about Back-End Development with Go
-- 💬 Ask me about Back-End Development or AI
+- 🔭 I am a graduate of informatics engineering at Politeknik Negeri Semarang
+- 🌱 I currently work as a backend developer and I am an AI enthusiast too
+- 💬 Ask me about backend development or AI
 - ⚡ Fun fact: I often code before breakfast
 
 
