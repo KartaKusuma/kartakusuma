@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm, Karta
 
 
-An independent Software Engineer who loves to create and share projects about web and AI! I've enjoyed PHP, JavaScript, Python and Go, and make them the main language in creating a project.
+A Software Engineer who loves to create and share projects about web and AI! I've enjoyed PHP, JavaScript, Python, Go, and Java, and make them the main language in creating a project.
 
 - 🔭 I am a graduate of informatics engineering at Politeknik Negeri Semarang
 - 🌱 I currently work as a backend developer and I am an AI enthusiast too
@@ -13,10 +13,14 @@ An independent Software Engineer who loves to create and share projects about we
   <a href="https://php.net/"><img align="left" alt="PHP" title="PHP" width="21px" src="https://avatars.githubusercontent.com/u/25158?v=4" /></a>
   <a href="https://laravel.com/"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://avatars.githubusercontent.com/u/958072?v=4" /></a>
   <a href="https://javascript.com"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
+  <a href="https://nodejs.org/en"><img align="left" alt="Node.js" title="Node.js" width="21px" src="https://avatars.githubusercontent.com/u/9950313?s=200&v=4" /></a>
+  <a href="https://nodejs.org/en"><img align="left" alt="Express.js" title="Express.js" width="21px" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" /></a>
+  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (Node.js HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
   <a href="https://python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://avatars.githubusercontent.com/u/1525981?v=4" /></a>
   <a href="https://go.dev/"><img align="left" alt="Go" title="Go" width="21px" src="https://avatars.githubusercontent.com/u/4314092?v=4" /></a>
   <a href="https://gin-gonic.com/"><img align="left" alt="Gin" title="Gin (Go HTTP Web Framework)" width="21px" src="https://avatars.githubusercontent.com/u/7894478?v=4" /></a>
+  <a href="https://spring.io/"><img align="left" alt="Spring" title="Spring (Java Framework)" width="21px" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" /></a>
+
   
   <br>
   <br>
